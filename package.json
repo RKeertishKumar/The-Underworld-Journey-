@@ -1,7 +1,7 @@
 {
   "name": "underworld-journey",
   "version": "0.1.0",
-  "homepage": "https://rkeertishkumar.github.io/The-Underworld-Journey-/",
+  "homepage": "https://RKeertishKumar.github.io/The-Underworld-Journey-",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
