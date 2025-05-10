@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-Underworld-Journey-/static/css/main.3f371da4.css",
+    "main.js": "/The-Underworld-Journey-/static/js/main.435741db.js",
+    "index.html": "/The-Underworld-Journey-/index.html",
+    "main.3f371da4.css.map": "/The-Underworld-Journey-/static/css/main.3f371da4.css.map",
+    "main.435741db.js.map": "/The-Underworld-Journey-/static/js/main.435741db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f371da4.css",
+    "static/js/main.435741db.js"
+  ]
+}
